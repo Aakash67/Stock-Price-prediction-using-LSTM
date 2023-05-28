@@ -1,8 +1,8 @@
-numpy
-pandas
-matplotlib
-pandas_datareader 
-keras
-yfinance
-streamlit
-tensorflow
+python -m pip install numpy
+python -m pip install pandas
+python -m pip install matplotlib
+python -m pip install pandas_datareader 
+python -m pip install keras
+python -m pip install yfinance
+python -m pip install streamlit
+python -m pip instal tensorflow
